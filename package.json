@@ -1,0 +1,20 @@
+{
+  "name": "better-prompt-pro",
+  "version": "1.0.0",
+  "description": "AI Prompt Engineering Assistant",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server -o",
+    "dev": "npx http-server -o"
+  },
+  "keywords": [
+    "ai",
+    "prompt-engineering",
+    "prompt"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
