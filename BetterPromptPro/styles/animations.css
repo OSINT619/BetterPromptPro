@@ -1,0 +1,24 @@
+.fade-up {
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+.slide-in {
+    opacity: 0;
+    transform: translateX(-50px);
+}
+
+.scale-in {
+    opacity: 0;
+    transform: scale(0.9);
+}
+
+.animate-float {
+    animation: float 6s ease-in-out infinite;
+}
+
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+    100% { transform: translateY(0px); }
+}
