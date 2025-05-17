@@ -1,4 +1,4 @@
-Want to generate better images? Better code? Better results overall? Need a solid prompt for a no code IDE? Give BetterPromptPro a try. Simply select an option fromthe dropdown and ask it to make you a prompt for your project. It's Free! 
+Want to generate better images? Better code? Better results overall? Need a solid prompt for a no code IDE? Give BetterPromptPro a try. Simply select an option from the dropdown and ask it to make you a prompt for your project. It's Free! 
 https://8wv2fkeh8wm3.trickle.host
 ![PromptPro](https://github.com/user-attachments/assets/157b2ebc-8e57-4dbf-afb1-9514ad5f2833)
 ![01](https://github.com/user-attachments/assets/67abfd07-5b95-42aa-81d7-5eb8fd3d9569)
